@@ -1,0 +1,50 @@
+/* Reset some default browser styles */
+body,
+h1,
+h2,
+p,
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  text-align: center;
+}
+
+header {
+  background-color: #24292e;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.content {
+  background-color: #fff;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #24292e;
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: disc;
+  margin-left: 20px;
+}
+
+footer {
+  background-color: #24292e;
+  color: #fff;
+  padding: 10px;
+}
