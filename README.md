@@ -1,4 +1,8 @@
 # OpenSource-frontend-hacktoberSite-project
+
+![Hacktober Fest Logo](https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/05_logo_set/hf10_horizontal_logos/rgb/hf10_horz_fcl_rgb.png)
+
+
 In this project, you will have the opportunity to apply your newly acquired HTML and CSS skills to create a website based on the theme of Hacktober Fest.
 # Hacktober Fest Website Project
 
