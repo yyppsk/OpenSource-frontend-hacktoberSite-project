@@ -5,6 +5,51 @@
 
 In this project, you will have the opportunity to apply your newly acquired HTML and CSS skills to create a website based on the theme of Hacktober Fest.
 # Hacktober Fest Website Project
+<div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/01%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/01%401x.png" alt="Icon 01" width="52px">
+    </a>
+    <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" alt="Icon 02" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/03%401x.png" alt="Icon 03" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/04%401x.png" alt="Icon 04" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/05%401x.png" alt="Icon 05" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/06%401x.png" alt="Icon 06" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/07%401x.png" alt="Icon 07" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/08%401x.png" alt="Icon 08" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/09%401x.png" alt="Icon 09" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/10%401x.png" alt="Icon 10" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/11%401x.png" alt="Icon 11" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/12%401x.png" alt="Icon 12" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/13%401x.png" alt="Icon 13" width="52px">
+    </a>
+  <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/02%401x.png" target="_blank">
+        <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/14%401x.png" alt="Icon 14" width="52px">
+    </a>
+  
+</div>
 
 ## Overview
 
