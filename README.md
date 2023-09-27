@@ -2,9 +2,10 @@
 
 ![Hacktober Fest Logo](https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/05_logo_set/hf10_horizontal_logos/rgb/hf10_horz_fcl_rgb.png)
 
-
 In this project, you will have the opportunity to apply your newly acquired HTML and CSS skills to create a website based on the theme of Hacktober Fest.
+
 # Hacktober Fest Website Project
+
 <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/01%401x.png" target="_blank">
         <img src="https://raw.githubusercontent.com/yyppsk/OpenSource-frontend-hacktoberSite-project/main/project-assets/04_icon_set/%401x/01%401x.png" alt="Icon 01" width="52px">
@@ -84,7 +85,7 @@ hacktober-fest-website/
 
 ## Task Instructions
 
-1. **Research Hacktober Fest**: Start by researching what Hacktober Fest is all about. Visit the official website (https://hacktoberfest.digitalocean.com/) and gather information about the event, its history, goals, and any other relevant details.
+1. **Research Hacktober Fest**: Start by researching what Hacktober Fest is all about. Visit the official website (https://hacktoberfest.com/) and gather information about the event, its history, goals, and any other relevant details.
 
 2. **Plan Your Website**: Before you start coding, sketch out a rough plan for your website. Decide on the layout, what information you want to include, and how you want to present it. You can use pen and paper or digital tools for this.
 
