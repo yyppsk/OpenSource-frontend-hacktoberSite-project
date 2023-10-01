@@ -4,36 +4,55 @@ h1,
 h2,
 p,
 ul {
-  margin: 0;
-  padding: 0;
+  margin: 1;
+  padding: 9;
+  background-image:url(project-assets/07_wallpapers/pngtree-technology-data-line-business-image_19045.jpg);
 }
+h1{
+  text-align: center;
+  font-family: monospace;
+  font-size: larger;
+  color: #ffffff;
+  /* background-color: rgb(0, 0, 0) ; */
+  text-shadow: 0 0 10px #e7d5d5;
+  transition: font-size 2.3s ease;
+}
+
+h1:hover {
+  transform: scale(1.2);
+}
+
 
 body {
   font-family: Arial, sans-serif;
-  background-color: #f0f0f0;
+  /* background-color: #570101a1; */
   text-align: center;
 }
 
 header {
-  background-color: #24292e;
-  color: #fff;
-  padding: 20px;
+  background-color: #050b0f00;
+  color: #ffffff;
+  
+}
+header:hover {
+  transform: scale(1.2);
 }
 
+
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .content {
-  background-color: #fff;
+  background-color: #34134f1d;
   padding: 20px;
   margin: 20px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  box-shadow: 0 0 10px rgb(249, 249, 249);
 }
 
 h2 {
-  color: #24292e;
+  color: #d2e8ff;
   font-size: 1.5rem;
   margin-bottom: 10px;
 }
@@ -44,7 +63,15 @@ ul {
 }
 
 footer {
-  background-color: #24292e;
-  color: #fff;
+  background-color: #a5c6e73c;
+  color: #ffffff;
   padding: 10px;
 }
+/* .head{
+  background: rgb(16, 21, 45);    
+  display: block;   
+   height: 100%; 
+      left: 0px; 
+         opacity: 0; 
+            padding: 12px 0px;    position: fixed;    top: 0px;    transition: all 0.5s ease 0s;    visibility: hidden;    width: 100%;    z-index: 500;
+} */
