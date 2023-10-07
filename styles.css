@@ -260,7 +260,7 @@ div {
 }
 
 button:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
   color: #ffffff;
   background-color: #34134f00;
   padding: 1cqmax;
